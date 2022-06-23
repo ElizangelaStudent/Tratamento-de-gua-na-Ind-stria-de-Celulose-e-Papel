@@ -18,10 +18,10 @@
 ##
 
 <p align="center">
-   <a href=”#Sobre">Sobre</a> .
-   <a href=”#parametrosdequalidade"> Parâmetros de Qualidade da Água</a> .
-   <a href=”#finalidadedapurificacao">Finalidade da Purificação</a> .
-   <a href=”#principaisprocessosdepurificacao">Principais Processos de Purificação</a> 
+   <a href="#Sobre">Sobre</a> .
+   <a href="#parametrosdequalidade">Parâmetros de Qualidade da Água</a href> .
+   <a href="#finalidadedapurificacao">Finalidade da Purificação</a> .
+   <a href="#principaisprocessosdepurificacao">Principais Processos de Purificação</a> 
   
 </p>
 
