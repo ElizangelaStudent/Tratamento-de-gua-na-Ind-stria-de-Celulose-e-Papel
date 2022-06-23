@@ -9,7 +9,7 @@
 
 <p align="center">
    <a href=”#sobre>Sobre </a> .
-   <a href=”#característicasdaáguaSob> Características da Água </a> .
+   <a href=”#parâmetrosdequalidadedaágua> Parâmetros de qualidade da água </a> .
    <a href=”#finalidadadapurificação>Finalidade da Purificação </a> .
    <a href=”#principaisprocessosdepurificação>Principais processos de  purificação </a> 
   
@@ -30,7 +30,7 @@
 <p>A</p>
 <p>A</p>
 
-# Características da Água
+# Parâmetros de qualidade de água
 
 # Finalidade da Purificação
 
