@@ -3,7 +3,9 @@
    
 </p>
 
-# **Tratamento de Água na Indústria de Celulose e Papel** 🏭
+  # <p align="center"> **Tratamento de Água na Indústria de Celulose e Papel** 
+  
+</p>
 
 <p align="center"> Este projeto tem como finalidade chegar as habilidades adquiridas no Git e Github, diante disso, será descrito o processo de tratamento de água em uma indústria de celulose e papel </p>
 
@@ -18,9 +20,9 @@
 
 <p align="center">
    <a href=”#Sobre>Sobre</a> .
-   <a href=”#ParâmetrosdeQualidadedaÁgua> Parâmetros de Qualidade da Água</a> .
-   <a href=”#FinalidadadaPurificação>Finalidade da Purificação</a> .
-   <a href=”#PrincipaisProcessosdePurificação>Principais Processos de  Purificação</a> 
+   <a href=”#parametrosdequalidade> Parâmetros de Qualidade da Água</a> .
+   <a href=”#finalidadedapurificacao>Finalidade da Purificação</a> .
+   <a href=”#principaisprocessosdepurificacao>Principais Processos de Purificação</a> 
   
 </p>
 
@@ -81,9 +83,9 @@ O Tratamento de água pode ser feito para atender a varías Finalidades:
 
 ### Features
 - [ x ] Criei Título
-- [ x ] CrieiDescrição
-- [ x ] GIF’s e imagem
-- [ x ] Adicionei link
+- [ x ] Criei Descrição
+- [ x ] GIF’s e Imagem
+- [ x ] Adicionei Link
 
 
 
