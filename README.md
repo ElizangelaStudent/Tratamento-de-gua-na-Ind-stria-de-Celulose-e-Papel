@@ -29,7 +29,7 @@
 <p> Sendo um setor que usa intensamente os recursos hídricos, também é um setor preocupado com seus efluentes gerados, sendo parte inerente e não menos importante do que seus processos produtivos. Assim a água passa por um conjunto de procedimentos físicos e químicos que são aplicados na água para que esta fique em condições adequadas para o consumo, ou seja, para que a água se torne potável, denominado como tratamento de água. </p>
 
 
-# **Parâmetros de Qualidade da Água** 💧💧💧
+# Parâmetros de Qualidade da Água💧💧💧
 
 <p> Alguns Parametros são analisados,dentres eles: </p>
 
