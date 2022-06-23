@@ -24,17 +24,46 @@
 ##
 
 # **Sobre**
-O setor do papel e celulose está presente em 540 municípios do Brasil, gerando 128 mil empregos diretos e 640 mil empregos indiretos. A indústria de celulose brasileira é a 4ª maior do mundo, enquanto a indústria de papel ocupa a 9ª posição. A área florestal preservada pelas empresas que atuam neste segmento industrial é de 2,9 milhões de hectares sendo 2,2 bilhões para uso industrial (ABTCP, 2019).
+<p> O setor do papel e celulose está presente em 540 municípios do Brasil, gerando 128 mil empregos diretos e 640 mil empregos indiretos. A indústria de celulose brasileira é a 4ª maior do mundo, enquanto a indústria de papel ocupa a 9ª posição. A área florestal preservada pelas empresas que atuam neste segmento industrial é de 2,9 milhões de hectares sendo 2,2 bilhões para uso industrial (ABTCP, 2019).</p>
 
-Sendo um setor que usa intensamente os recursos hídricos, também é um setor preocupado com seus efluentes gerados, sendo parte inerente e não menos importante do que seus processos produtivos.
+<p> Sendo um setor que usa intensamente os recursos hídricos, também é um setor preocupado com seus efluentes gerados, sendo parte inerente e não menos importante do que seus processos produtivos. Assim a água passa por um conjunto de procedimentos físicos e químicos que são aplicados na água para que esta fique em condições adequadas para o consumo, ou seja, para que a água se torne potável, denominado como tratamento de água. </p>
 
 
 # **Parâmetros de Qualidade da Água** 💧💧💧
 
+<p> Alguns Parametros são analisados,dentres eles: </p>
+
+- pH 
+- Efeito Tampão
+- Acidez
+- Alcalinidade
+- Sólidos
+- Cor
+- Turbidez
+- Condutividade
+- Dureza
+- Matéria Orgânica
+ 
+  
 # **Finalidade da Purificação**
+
+O Tratamento de água pode ser feito para atender a varías Finalidades:
+
+  - Higiênicas
+  - Estéticas
+  - Econômicas
 
 
 # **Principais Processos de  Purificação**
+
+<p> O tratamento de água é composto de etapas, a seguir: </p>
+
+  - Coagulação
+  - Floculação
+  - Decantação
+  - Filtração
+  - Desinfecção ou Cloração
+   
 
 <p align="center">
   <img width="780px" height= 169 src=https://user-images.githubusercontent.com/107508602/175396855-6694ea74-67ca-4ada-a0ae-989ff5841032.png>
