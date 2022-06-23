@@ -8,10 +8,10 @@
 <p align="center"> Este projeto tem como finalidade chegar as habilidades adquiridas no Git e Github, diante disso, será descrito o processo de tratamento de água em uma indústria de celulose e papel </p>
 
 <p align="center">
-   <a href=”#sobre>Sobre </a> .
-   <a href=”#parâmetrosdequalidadedaágua> Parâmetros de Qualidade da Água </a> .
-   <a href=”#finalidadadapurificação>Finalidade da Purificação </a> .
-   <a href=”#principaisprocessosdepurificação>Principais Processos de  Purificação </a> 
+   <a href=”#Sobre>Sobre </a> .
+   <a href=”#ParâmetrosdeQualidadedaÁgua> Parâmetros de Qualidade da Água </a> .
+   <a href=”#FinalidadadaPurificação>Finalidade da Purificação </a> .
+   <a href=”#PrincipaisProcessosdePurificação>Principais Processos de  Purificação </a> 
   
 </p>
 
@@ -82,6 +82,7 @@ O Tratamento de água pode ser feito para atender a varías Finalidades:
 - [ x ] Criar Título
 - [ x ] Criar Descrição
 - [ x ] GIF’s
+- [ x ] Adicionei link
 
 
 
