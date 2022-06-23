@@ -18,12 +18,11 @@
 ##
 
 <p align="center">
-   <a href="#Sobre">Sobre</a> .
-   <a href="#parametrosdequalidade">Parâmetros de Qualidade da Água</a href> .
-   <a href="#finalidadedapurificacao">Finalidade da Purificação</a> .
-   <a href="#principaisprocessosdepurificacao">Principais Processos de Purificação</a> 
+  <a href="#sobre">Sobre</a> .
+  <a href="#parametrosdequalidade">Parametros de Qualidade</a> .
   
 </p>
+
 
 # **Sobre**
 <p> O setor do papel e celulose está presente em 540 municípios do Brasil, gerando 128 mil empregos diretos e 640 mil empregos indiretos. A indústria de celulose brasileira é a 4ª maior do mundo, enquanto a indústria de papel ocupa a 9ª posição. A área florestal preservada pelas empresas que atuam neste segmento industrial é de 2,9 milhões de hectares sendo 2,2 bilhões para uso industrial (ABTCP, 2019).</p>
@@ -31,7 +30,7 @@
 <p> Sendo um setor que usa intensamente os recursos hídricos, também é um setor preocupado com seus efluentes gerados, sendo parte inerente e não menos importante do que seus processos produtivos. Para que tenha sucesso em seu produto, a água passa por um conjunto de procedimentos físicos e químicos que são aplicados na água para que esta fique em condições adequadas para o consumo, ou seja, para que a água se torne potável, denominado como tratamento de água. </p>
 
 
-# **Parâmetros de Qualidade da Água**💧💧💧
+# **Parâmetros de Qualidade**💧💧💧
 
 <p> Alguns Parametros são analisados,dentres eles: </p>
 
@@ -56,7 +55,7 @@ O Tratamento de água pode ser feito para atender a varías Finalidades:
   - Econômicas
 
 
-# **Principais Processos de  Purificação**
+# **Principais Processos de Purificação**
 
 <p> O tratamento de água é composto de etapas, a seguir: </p>
 
