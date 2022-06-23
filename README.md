@@ -1,3 +1,7 @@
+<span align="center">
+   
+</span>
+
 # Tratamento de Água na Indústria de Celulose e Papel 🏭
 
 <p align="center"> Este projeto tem como finalidade chegar as habilidades adquiridas no Git e Github, diante disso, será descrito o processo de tratamento de água em uma indústria de celulose e papel </p>
