@@ -43,13 +43,16 @@ Sendo um setor que usa intensamente os recursos hídricos, também é um setor p
 
 ## **Links Importantes** 🔗
 <p align="center"> Acesse e conheça mais sobre o processo de tratamento de água em uma indústria de celulose e papel </p>
- 
+
+ - [Tratamento da Água na Industria](https://www.youtube.com/watch?v=4JVZisQgRvU)
  - [Como é feito o tratamento de água](https://www.youtube.com/watch?v=cWBSF0VyiMI)
+ - [Etapas de Tratamento da Água](https://www.youtube.com/watch?v=R6v27VpMte0)
+ 
 
 ### Features
 - [ x ] Criar Título
 - [ x ] Criar Descrição
-- [   ] GIF’s
+- [ x ] GIF’s
 
 
 
