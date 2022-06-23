@@ -9,9 +9,9 @@
 
 <p align="center">
    <a href=”#sobre>Sobre </a> .
-   <a href=”#parâmetrosdequalidadedaágua> Parâmetros de qualidade da água </a> .
+   <a href=”#parâmetrosdequalidadedaágua> Parâmetros de Qualidade da Água </a> .
    <a href=”#finalidadadapurificação>Finalidade da Purificação </a> .
-   <a href=”#principaisprocessosdepurificação>Principais processos de  purificação </a> 
+   <a href=”#principaisprocessosdepurificação>Principais Processos de  Purificação </a> 
   
 </p>
 
@@ -30,13 +30,17 @@
 <p>A</p>
 <p>A</p>
 
-# Parâmetros de qualidade de água
+# Parâmetros de Qualidade da Água
 
 # Finalidade da Purificação
 
 
-# Principais processos de  purificação 
+# Principais Processos de  Purificação
 
+<p align="left">
+  <img width="780px" height= 169 src=https://user-images.githubusercontent.com/107508602/175396855-6694ea74-67ca-4ada-a0ae-989ff5841032.png>
+
+</p>
 
 ### Features
 - [ x ] Criar Título
