@@ -1,6 +1,7 @@
-<span align="center">
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/107508602/175390499-0c7410d8-19b7-489c-8312-99605fa8d04e.gif width="10px"> 
    
-</span>
+</p>
 
 # Tratamento de Água na Indústria de Celulose e Papel 🏭
 
