@@ -16,11 +16,11 @@
 </p>
 
 ##
-
 <p align="center">
-  <a href="#sobre">Sobre</a> .
-  <a href="#parametrosdequalidade">Parametros de Qualidade</a> .
-  
+ <a href=["#sobre"]>Sobre</a> .
+ <a href=["#processodepurificacao"]>Processo de Purificação</a> .
+ <a href=["#finalidadedapuficação"]>Finalidade da Purificação</a> .
+ <a href=["#principaisprocessosdepurificação"]>Principais Processos de Purificação</a>            
 </p>
 
 
@@ -34,36 +34,43 @@
 
 <p> Alguns Parametros são analisados,dentres eles: </p>
 
-- pH 
-- Efeito Tampão
-- Acidez
-- Alcalinidade
-- Sólidos
-- Cor
-- Turbidez
-- Condutividade
-- Dureza
-- Matéria Orgânica
+<p>- pH</p>
+<p>- Efeito Tampão</p>
+<p>- Acidez</p>
+<p>- Alcalinidade</p>
+<p>- Sólidos</p>
+<p>- Cor</p>
+<p>- Turbidez</p>
+<p>- Condutividade</p>
+<p>- Dureza</p>
+<p>- Matéria Orgânica</p>
+  
+ </p>  
  
   
 # **Finalidade da Purificação**
 
-O Tratamento de água pode ser feito para atender a varías Finalidades:
+<p>O Tratamento de água pode ser feito para atender a varías Finalidades:
 
   - Higiênicas
   - Estéticas
   - Econômicas
+  
+ </p>
 
 
 # **Principais Processos de Purificação**
 
-<p> O tratamento de água é composto de etapas, a seguir: </p>
+<p> O tratamento de água é composto de etapas, a seguir: 
 
   - Coagulação
   - Floculação
   - Decantação
   - Filtração
   - Desinfecção ou Cloração
+  
+ </p>
+ 
    
 
 <p align="center">
