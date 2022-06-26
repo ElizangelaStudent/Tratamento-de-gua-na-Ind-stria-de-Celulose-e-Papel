@@ -9,40 +9,51 @@
 
 <p align="center"> Este projeto tem como finalidade chegar as habilidades adquiridas no Git e Github, diante disso, será descrito o processo de tratamento de água em uma indústria de celulose e papel </p>
 
+</p>
+
+<p align="center">
+  <a href="#sobre">Sobre</a> .
+  <a href="parametrosdapurificacao">Parâmetros da purificação</a> .
+  <a href="finalidadedapurificacao">Finalidade da purificação</a> .
+  <a href="principaisprocessosdapuficacao">Principais processos da purificação</a> 
+  
+  </p>
+  
 ##
 <p align="center">
     🚧  Projeto README 🚀 Em construção ... 🚧 
-
-</p>
+  
+  </p>
 
 ##
 
-</p>
   
-# **Sobre**
+# Sobre
   
 <p> O setor do papel e celulose está presente em mai de 540 municípios do Brasil, sendo um setor que usa intensamente os recursos hídricos, diante disso a água passa por um conjunto de procedimentos físicos e químicos para que esta fique em condições adequadas para o consumo, esse processo é denominado como tratamento de água. 
 
 </p>
 
 
-# **Parâmetros de Qualidade**💧💧💧
+# Parâmetros da purificação💧💧💧
 
-<p> Alguns Parametros são analisados,dentres eles: </p>
+<p> Alguns Parametros são analisados,dentres eles: 
 
-<p>- pH</p>
-<p>- Efeito Tampão</p>
-<p>- Acidez</p>
-<p>- Alcalinidade</p>
-<p>- Sólidos</p>
-<p>- Cor</p>
-<p>- Turbidez</p>
-<p>- Condutividade</p>
-<p>- Dureza</p>
-<p>- Matéria Orgânica</p>
+- pH
+- Efeito Tampão
+- Acidez
+- Alcalinidade
+- Sólidos
+- Cor
+- Turbidez
+- Condutividade
+- Dureza
+- Matéria Orgânica
   
+  
+  </p>
  
-# **Finalidade da Purificação**
+# Finalidade da purificação
 
 <p>O Tratamento de água pode ser feito para atender a varías Finalidades:
 
@@ -50,12 +61,12 @@
   - Estéticas
   - Econômicas
   
- </p>
+   </p>
+  
 
+# Principais processos da purificação
 
-# **Principais Processos de Purificação**
-
-<p> O tratamento de água é composto de etapas, a seguir: 
+<p>O tratamento de água é composto de etapas, a seguir: 
 
   - Coagulação
   - Floculação
@@ -64,9 +75,7 @@
   - Desinfecção ou Cloração
   
  </p>
- 
    
-
 <p align="center">
   <img width="780px" height= 169 src=https://user-images.githubusercontent.com/107508602/175396855-6694ea74-67ca-4ada-a0ae-989ff5841032.png>
 
