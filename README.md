@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a> .
-  <a href="parametrosdapurificacao">Parâmetros da purificação</a> .
-  <a href="finalidadedapurificacao">Finalidade da purificação</a> .
-  <a href="principaisprocessosdapuficacao">Principais processos da purificação</a> 
+  <a href="parametros-da-purificacao">Parâmetros da purificação</a> .
+  <a href="finalidade-da-purificacao">Finalidade da purificação</a> .
+  <a href="principais-processos-da-puficacao">Principais processos da purificação</a> 
   
   </p>
   
