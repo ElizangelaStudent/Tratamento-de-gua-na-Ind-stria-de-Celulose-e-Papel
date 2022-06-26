@@ -12,12 +12,11 @@
 </p>
 
 <p align="center">
-<a href="#sobre">Sobre</a> .
-<a href="parametros-da-purificacao">Parâmetros da purificação</a> .
-<a href="finalidade-da-purificacao">Finalidade da purificação</a> .
-<a href="principais-processos-da-puficacao">Principais processos da purificação</a> 
-  
-  </p>
+  <a href="#sobre">Sobre</a> .
+  <a href=("#parametrosdapurificacao")>Parâmetros da purificação</a> .
+  <a href=("#finalidadedapurificacao")>Finalidade da purificação</a> .
+  <a href=("#principaisprocessosdapuficacao")>Principais processos da purificação</a> 
+</p>
   
 ##
 <p align="center">
@@ -31,9 +30,7 @@
 # Sobre
   
 <p> O setor do papel e celulose está presente em mai de 540 municípios do Brasil, sendo um setor que usa intensamente os recursos hídricos, diante disso a água passa por um conjunto de procedimentos físicos e químicos para que esta fique em condições adequadas para o consumo, esse processo é denominado como tratamento de água. 
-  
-  </p>
-
+</p>
 
 # Parâmetros da purificação💧💧💧
 
@@ -49,19 +46,17 @@
 - Condutividade
 - Dureza
 - Matéria Orgânica
+</p>
   
-</p>  
-
 # Finalidade da purificação
 
 <p> O Tratamento de água pode ser feito para atender a varías Finalidades:
 
-  - Higiênicas
-  - Estéticas
-  - Econômicas
+- Higiênicas
+- Estéticas
+- Econômicas
+</p>
   
- </p>
-
 # Principais processos da purificação
 
 <p> O tratamento de água é composto de etapas, a seguir: 
@@ -71,8 +66,9 @@
   - Decantação
   - Filtração
   - Desinfecção ou Cloração
-  
- </p>
+</p>
+
+
    
 <p align="center">
   <img width="780px" height= 169 src=https://user-images.githubusercontent.com/107508602/175396855-6694ea74-67ca-4ada-a0ae-989ff5841032.png>
@@ -90,6 +86,7 @@
 ### Features
 - [ x ] Criei Título
 - [ x ] Criei Descrição
+- [ x ] Adicionei Súmario na horizontal
 - [ x ] GIF’s e Imagem
 - [ x ] Adicionei Link
 
