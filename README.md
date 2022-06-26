@@ -50,23 +50,23 @@
 - Dureza
 - Matéria Orgânica
   
-  
-  </p>
+ </p>  
+ 
  
 # Finalidade da purificação
 
-<p>O Tratamento de água pode ser feito para atender a varías Finalidades:
+<p> O Tratamento de água pode ser feito para atender a varías Finalidades:
 
   - Higiênicas
   - Estéticas
   - Econômicas
   
-   </p>
+  </p>
   
 
 # Principais processos da purificação
 
-<p>O tratamento de água é composto de etapas, a seguir: 
+<p> O tratamento de água é composto de etapas, a seguir: 
 
   - Coagulação
   - Floculação
@@ -74,7 +74,7 @@
   - Filtração
   - Desinfecção ou Cloração
   
- </p>
+  </p>
    
 <p align="center">
   <img width="780px" height= 169 src=https://user-images.githubusercontent.com/107508602/175396855-6694ea74-67ca-4ada-a0ae-989ff5841032.png>
