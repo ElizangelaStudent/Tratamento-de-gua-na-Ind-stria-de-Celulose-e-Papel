@@ -17,16 +17,7 @@
   <a href="#sobre">Finalidade da Purificação</a> .
   <a href="#sobre">Principais Processos da Purificação</a> 
 </p>
-  
-##
-<p align="center">
-    🚧  Projeto README 🚀 Em construção ... 🚧 
-  
-  </p>
-
-##
-
-  
+    
 ## Sobre
 <p> O setor do papel e celulose está presente em mai de 540 municípios do Brasil, sendo um setor que usa intensamente os recursos hídricos, diante disso a água passa por um conjunto de procedimentos físicos e químicos para que esta fique em condições adequadas para o consumo, esse processo é denominado como tratamento de água. 
 </p>
